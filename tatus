@@ -1,0 +1,36 @@
+[33mcommit fc5ea388f5143c3a6cb36cd5be71214dc4851d18[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: ca9a806 6bfd6f3
+Author: DaniAgredo <de287263@gmail.com>
+Date:   Tue Oct 15 13:00:27 2024 -0500
+
+    Merge branch 'main' of https://github.com/DaniAgredo/LifeLog-Chronicles
+
+[33mcommit ca9a806e9aa73398d8ff5487ab1b93060ec21620[m
+Author: DaniAgredo <de287263@gmail.com>
+Date:   Tue Oct 15 03:43:43 2024 -0500
+
+    actualizacion style.css
+
+[33mcommit 7244b984ddf107ddb492e85b65938556af086d69[m
+Author: DaniAgredo <de287263@gmail.com>
+Date:   Tue Oct 15 03:38:07 2024 -0500
+
+    agrege una nueva pagina
+
+[33mcommit 6bfd6f37a1f970848f888b261932b4f1523d567d[m
+Author: DaniAgredo <de287263@gmail.com>
+Date:   Tue Oct 15 03:24:47 2024 -0500
+
+    Actualización de style.css para transiciones
+
+[33mcommit a7951d9929c920b97bc5c987481db658e4f61b5a[m
+Author: DaniAgredo <de287263@gmail.com>
+Date:   Tue Oct 15 02:00:28 2024 -0500
+
+    initial commit with all files
+
+[33mcommit 4a1a738bee91e357a62b11bfc21f5f0ebc0b58d9[m
+Author: DaniAgredo <de287263@gmail.com>
+Date:   Tue Oct 15 01:26:57 2024 -0500
+
+    first commit

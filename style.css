@@ -22,11 +22,7 @@ html {
 	width: 200px;
 	height: auto;
 }
-.logo1 a {
-	font-size: 3rem;
-	color: #e9de05;
-	text-decoration: none;
-}
+
 .brand .fa-mountain-city {
 	font-size: 2rem;
 	color: rgb(29, 75, 225);
@@ -58,6 +54,20 @@ html {
 	padding: 3px;
 	transition: 0.5s;
 	text-decoration: none;
+}
+h1 {
+	transition: color 0.5s ease, transform 0.5s ease;
+}
+
+h1:hover {
+	color: #f3f307; /* Cambia al color deseado */
+	transform: scale(1.1);
+	opacity: 0.1; /* Aumenta ligeramente el tamaño */
+}
+h2:hover {
+	color: #f3f307; /* Cambia al color deseado */
+	transform: scale(1.1);
+	opacity: 0.1; /* Aumenta ligeramente el tamaño */
 }
 .contenedor-header header nav ul li a:hover {
 	color: #e9db14;
